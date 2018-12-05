@@ -17,8 +17,8 @@ Controller側に処理を追加して対応した。結果はGitHub側のソー�
 Macでのインストール作業時にrbenvを入れてrubyのバージョン切り替えを行ったがうまく行かず。  
 参考サイトを参考に、rbenvのパスの確認や、bash_profileへのパス追加を行って変更出来た。  
   
-Railsの環境を作り、プロジェクトのbundle install時にmysqlが入らなかった。
-こちらも参考サイトのコマンドを入力することで、うまく動作した。原因はなんだろう……Macで発生。
+Railsの環境を作り、プロジェクトのbundle install時にmysqlが入らなかった。  
+こちらも参考サイトのコマンドを入力することで、うまく動作した。原因はなんだろう……Macで発生。  
 
 ### 参考サイト
 [WindowsでRuby on Rails Tutorial (Railsチュートリアル) の環境構築。localhost:3000を表示するまで。](https://azumayuri.hatenablog.com/entry/2018/08/08/034005)  
