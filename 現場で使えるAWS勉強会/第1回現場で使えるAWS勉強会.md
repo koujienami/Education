@@ -54,6 +54,10 @@ MySQLをインストール後にサーバーを起動していなかった為に
 #### cannot load such file -- sqlite3/sqlite3_native (LoadError)が発生する。(Windows)
 Windows環境においてのみ、soファイルというものが必要になるらしく、下記参考サイトに基づいた対応が必要。
 
+#### sqliteとMySQLで変更するポイント
+Railsのデフォルトはsqliteとなっており、MySQLにするには定義変更が必要。  
+参考サイトはMySQLベースになっているため、コマンドなどで「mysql」とある部分は全て「sqlite」へ変更が必要。
+
 
 ### 参考サイト
 ****
