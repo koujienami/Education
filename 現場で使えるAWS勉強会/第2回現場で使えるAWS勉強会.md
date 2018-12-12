@@ -35,4 +35,4 @@
 
 
 #### GitHub
-[Ruby on RailsでWebアプリ作成](https://github.com/koujienami/HelloWorld)
+[Ruby on RailsでWebアプリ作成](https://github.com/koujienami/TimeLine)
